@@ -1,8 +1,8 @@
 //Anjing Mau Nyolong Ya ?
-//Kasih Nama Sofyan AMV Lah Bang Hargain Dikit Gw Capek :(
+//Kasih Nama ABAY Lah Bang Hargain Dikit Gw Capek :(
 //Gw Mencium Bau Bau Ada Kang Colong Case Nih :v
 //Gak Usah Di Hapus Gblk Dimana Harga Diri Lu Gw Capek2 Ngefix malah di hapus
-//Fixed Some Bug By Sofyan AMV & MrG{108P}*
+//Fixed Some Bug By Abay
 //Gak Usah Di Hapus TQTO Gblk Dimana Harga Diri Lu Gw Capek2 Ngefix malah di hapus 
 const {
    WAConnection,
@@ -48,19 +48,19 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Sofyan AMV\n' 
+            + 'FN: abay\n' 
             + 'ORG: Owner Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6281227825649:+62 812-2782-5649\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6285694347823:+62 856-9434-7823\n' 
             + 'END:VCARD'
-prefix = 'z'
+prefix = '£'
 blocked = []   
 limitawal = 20
 memberlimit = 0
 cr = '*VERIFIED*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281227825649@s.whatsapp.net"] 
-const pacarNumber = ["6281534162316@s.whatsapp.net"]
+const ownerNumber = ["6285694347823@s.whatsapp.net"] 
+const pacarNumber = ["6285694347823@s.whatsapp.net"]
 /************************************/
 
        
