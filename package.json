@@ -1,7 +1,7 @@
 {
-  "name": "Chika",
+  "name": "Abay",
   "version": "1.0.0",
-  "description": "Chika for whatsapp online with termux",
+  "description": "Abay for whatsapp online with termux",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -18,15 +18,15 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Sofyan AMV",
+  "author": "Abay",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SofyanAMV09/ChikaBot.git"
+    "url": "git+https://github.com/baybot12/abaybotV6.git"
   },
   "bugs": {
-    "url": "https://github.com/SofyanAMV09/ChikaBot/issues"
+    "url": "https://github.com/baybot12/abaybotV6/issues"
   },
-  "homepage": "https://github.com/SofyanAMV09/readme.md",
+  "homepage": "https://github.com/baybot12/abaybotV6/readme.md",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
