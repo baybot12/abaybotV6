@@ -7,7 +7,10 @@ apt-get install ffmpeg
 apt-get install wget
 apt-get install tesseract
 git clone https://github.com/abaybot12/abaybotv6
+cd abaybotV6
+bash install.sh
 node index.js
+
 
 scan dah hore.....
 
